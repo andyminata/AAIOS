@@ -14,6 +14,18 @@
 					<key>url</key>
 					<string>http://39.104.208.192:8095/FilesDownLoad/aaios.ipa</string>
 				</dict>
+				<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>url</key>
+<string>http://39.104.208.192:8095/FilesDownLoad/aaios57.png</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>url</key>
+<string>http://39.104.208.192:8095/FilesDownLoad/aaios512.png</string>
+</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
