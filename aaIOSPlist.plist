@@ -30,12 +30,12 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.AAApp.demo</string>
+				<string>com.aachess.db</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>AA App</key>
+				<key>title</key>
 				<string>AA App download</string>
 			</dict>
 		</dict>
