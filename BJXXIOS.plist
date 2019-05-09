@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cdnqrcode.bufanlu.cn:8018/20190508ipa.ipa</string>
+					<string>http://cdn.jushuma.cn/down-IOS.ipa</string>
 				</dict>
 				<dict>
 <key>kind</key>
 <string>display-image</string>
 <key>url</key>
-<string>http://cdnqrcode.bufanlu.cn:8018/aaios57.png</string>
+<string>http://cdn.jushuma.cn/aaios57.png</string>
 </dict>
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
 <key>url</key>
-<string>http://cdnqrcode.bufanlu.cn:8018/aaios512.png</string>
+<string>http://cdn.jushuma.cn/aaios512.png</string>
 </dict>
 			</array>
 			<key>metadata</key>
